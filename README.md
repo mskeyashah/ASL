@@ -6,9 +6,6 @@ Our web-based project detects signs using the live feed from the camera and feat
 
 With an extrapolated model, this could be a huge step towards bridging the chasm between the worlds of sign and spoken languages.
 
-# Demo
-[![ASL - Accessible Smart Linguist | HackMIT](http://img.youtube.com/vi/P52I1pX4JN8/0.jpg)](http://www.youtube.com/watch?v=P52I1pX4JN8 "ASL - Accessible Smart Linguist | HackMIT")
-
 ## Installation
 Clone the source locally:
 
