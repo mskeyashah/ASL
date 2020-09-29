@@ -11,7 +11,6 @@ Clone the source locally:
 
 ```sh
 $ git clone https://github.com/mskeyashah/ASL
-$ cd HackMIT
 $ cd Flask
 ```
 You'll also need to install
