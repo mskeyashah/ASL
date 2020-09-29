@@ -13,7 +13,7 @@ With an extrapolated model, this could be a huge step towards bridging the chasm
 Clone the source locally:
 
 ```sh
-$ git clone https://github.com/helloparthshah/HackMIT
+$ git clone https://github.com/mskeyashah/ASL
 $ cd HackMIT
 $ cd Flask
 ```
@@ -55,7 +55,3 @@ One of the biggest challenges we had to overcome was the integration of our mach
 We are proud that we were able to train an accurate model to predict the letters and words in a small amount of time and we hope to incorporate sentence prediction soon to our application.
 ## What's next for ASL
 In the future, we want to expand this to predict and autocomplete sentences based on just a few words. Implementing that would require training a model with huge amounts of data for each word. 
-
-## License
-
-MIT  © [Parth Shah](http://parthshah.tech)
